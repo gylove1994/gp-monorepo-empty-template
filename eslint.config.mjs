@@ -3,7 +3,7 @@ import antfu from '@antfu/eslint-config';
 export default antfu({
   react: true,
   typescript: true,
-  ignores: ['*.md', '**/lottie/*.json', '**/templates/*'],
+  ignores: ['*.md', '**/lottie/*.json', '**/templates/*', '**/.turbo/**', '**/dist/**', '**/node_modules/**'],
   rules: {
     'style/no-tabs': [
       'error',
