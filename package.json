@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "packageManager": "pnpm@9.15.9+sha256.cf86a7ad764406395d4286a6d09d730711720acc6d93e9dce9ac7ac4dc4a28a7",
   "description": "",
-  "author": "",
-  "license": "ISC",
+  "author": "gylove1994<gylove1994@acgsteps.com>",
+  "license": "MIT",
   "keywords": [],
   "main": "index.js",
   "scripts": {
